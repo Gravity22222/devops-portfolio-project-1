@@ -1,13 +1,14 @@
 # Projeto de Portfólio DevOps: CI/CD e IaC com Azure
 
-![CI - Build and Push Docker Image](https://github.com/Gravity22222/startbootstrap-resume/actions/workflows/ci-pipeline.yml)
-![Release Please](https://github.com/Gravity22222/startbootstrap-resume/actions/workflows/release-please.yml)
+CI - Build and Push Docker Image(https://github.com/Gravity22222/startbootstrap-resume/actions/workflows/ci-pipeline.yml)
+Release Please(https://github.com/Gravity22222/startbootstrap-resume/actions/workflows/release-please.yml)
 
 Este projeto demonstra um ciclo de vida DevOps completo, desde a containerização de uma aplicação web até sua implantação automatizada na nuvem da Azure, utilizando práticas de CI/CD e Infraestrutura como Código (IaC).
 
 ## 🏛️ Arquitetura do Projeto
 
 
+<img width="1202" height="806" alt="image" src="https://github.com/user-attachments/assets/edd2e459-c33e-4cc1-aa3f-d2aacf8468d0" />
 
 
 
